@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.18;
 
-contract MyToken {
+contract Tokening {
     // Variables
     string public tokenName = "SHIVA";
     string public tokenSymbol = "Hi";
